@@ -4,7 +4,7 @@
  */
 package studentlist;
 
-/**
+/** This is Part time branch
  * May 21st 2025
  * @author sivagamasrinivasan
  */
